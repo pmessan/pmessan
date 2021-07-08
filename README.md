@@ -16,8 +16,6 @@ The skills and tools I use:
 <img align="left" alt="C" width="28px" style="padding-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img align="left" alt="C++" width="28px" style="padding-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Python" width="30px" style="padding-left:10px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-<img align="left" alt="Django" width="35px" style="padding-left:3px;" src="https://cdn.freebiesupply.com/logos/thumbs/2x/django-logo.png" />
-<img align="left" alt="Java" width="15px" style="padding-left:10px;" src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1000px-Java-Logo.svg.png" />
 <img align="left" alt="MySQL" width="50px" style="padding-left:13px;" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
 <img align="left" alt="Git" width="27px" style="padding-left:10px;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
