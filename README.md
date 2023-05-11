@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Peter!
 
-I currently work as a Systems Engineer with [ProGlove](https://www.proglove.com/en/). I'm also a recent graduate with a BSc. Intelligent Mobile Systems from Jacobs University Bremen. I enjoy working primarily on Robotics software projects, fullstack web development projects (especially using Javascript), and projects that generally involve making different systems talk to each other and exchange information. In my (not so much) spare time I'm a graphic designer specializaing in Logos, Posters, UI/UX, as well as videos and animations.
+I currently work as a Systems Engineer with [ProGlove](https://www.proglove.com/en/). I'm also a graduate with a BSc. Intelligent Mobile Systems from Jacobs University Bremen. I enjoy working on Robotics / IOT software projects, fullstack web development projects (especially using JS/TS & Python), and projects that generally involve making different systems talk to each other and exchange information. In my (not so much) spare time I'm a graphic designer specializaing in Logos, Posters, UI/UX, as well as videos and animations.
 
 I aspire to become a(n) (ethical) hacker 😉, in addition to my goal of becoming the best and most versatile software engineer out there. This Github profile shows what I've been messing around with recently. Have a look around and let me know what you find interesting by starring it! ⭐️ 🙌 
 
